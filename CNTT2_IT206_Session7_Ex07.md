@@ -1,7 +1,5 @@
 # Bài thực hành 7: AI Gia sư giúp sinh viên hiểu và sửa lỗi code (C)
 
-**Họ tên:** ........  **MSSV:** ........  **Mô hình AI dùng:** ........
-
 ## 1. Đề bài
 Chương trình C tính điểm trung bình 3 môn nhưng kết quả không chính xác. Mình muốn tự hiểu lỗi chứ không nhờ AI viết lại.
 
